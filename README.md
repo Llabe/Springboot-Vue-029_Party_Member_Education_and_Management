@@ -9,7 +9,8 @@
 ![Shiro](https://img.shields.io/badge/Shiro-1.3.2-green)
 
 
-> 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234. 备注：项目咨询
+> 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234. 备注：项目咨询
+
 注：由于前端项目太大，仅上传了后端代码，未包含前端代码...
 
 ## 项目简介  
@@ -52,7 +53,7 @@ src/
 	url: jdbc:mysql://127.0.0.1:3306/dangyuanjiaoyuguanli
 	username: root
 	password: 123456
-
+```
 
 2. 访问地址：
 后台登录页：http://localhost:8080/dangyuanjiaoyuguanli/admin/dist/index.html
@@ -66,7 +67,7 @@ src/
 图片上传路径：src/main/webapp/upload
 上传图片名禁止包含中文
 推荐使用谷歌浏览器访问
-```
+
 
 # 项目实际截图：
 ## 登录：
